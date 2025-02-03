@@ -1,4 +1,4 @@
---Q3: What is the relationship between Country and Revenue? 
+What is the relationship between Country and Revenue?Â 
 --I create the following views to use in my visualizations. 
 CREATE VIEW sales.totalrevenue_by_country AS
 SELECT 
