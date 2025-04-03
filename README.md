@@ -15,7 +15,7 @@ When it comes to visualizing data, choosing the most appropriate chart type is c
 ![](https://github.com/Ftsem/AdventureworksDatabase-SQL-Python/blob/d7fddcb5405054975db4aa51cd58eb288759ce5a/assets/Country_vs_AVG_Revenue_Thousands.png)
 
 ### 📊 Country vs. Total Annual Revenue
-![Country vs. Total Revenue](Country_vs_Total_Annual_Revenue.png)
+![Country vs. Total Revenue](https://github.com/Ftsem/AdventureworksDatabase-SQL-Python/blob/f7232b0f45dd80de2a527557cf2195c915bb9da5/assets/Country_vs_Total_Annual_Revenue.png)
 
 ## Observations
 Based on the bar chart:
