@@ -12,7 +12,7 @@ To analyze these fetched views and gain insights from them, I connected my **Jup
 When it comes to visualizing data, choosing the most appropriate chart type is crucial. My goal for visualization was to display the distribution of a categorical variable (**Country**), making a **bar chart** an excellent choice.
 
 ### 📊 Country vs. Average Revenue per Entity (Thousands)
-![Country vs. Average Revenue](Country_vs_AVG_Revenue_Thousands.png)
+![(https://github.com/Ftsem/AdventureworksDatabase-SQL-Python/blob/4d174b76612dd4dc9c9337ff500286b348fe8951/assets/Country_vs_AVG_Revenue_Thousands.png)
 
 ### 📊 Country vs. Total Annual Revenue
 ![Country vs. Total Revenue](Country_vs_Total_Annual_Revenue.png)
